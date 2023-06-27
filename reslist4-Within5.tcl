@@ -1,3 +1,7 @@
+#Written by Priyanshu Ranjan Gupta
+#date: Jun 20, 2023
+
+
 set currentDir [pwd]
 set pdbFiles [glob -nocomplain ${currentDir}/*.pdb]
 set filename "Data/ReslistPerPDB.dat"
